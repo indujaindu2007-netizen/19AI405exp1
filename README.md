@@ -1,4 +1,4 @@
-<img width="1416" height="155" alt="image" src="https://github.com/user-attachments/assets/3df63a35-9bb2-4ffe-b48f-4223c02f9f31" /># 19AI405exp1
+# 19AI405exp1
 ## ExpNo 1 :Developing AI Agent with PEAS Description
 ## Name: INDUJA R
 ## Register Number:212225230103
@@ -87,9 +87,9 @@ if __name__ == "__main__":
 
     agent = HealthMonitoringAgent(patient_data, sensors, actuators)
     agent.monitor_health()
-    ```
+```
 
 # Output:
-<img width="1416" height="155" alt="image" src="https://github.com/user-attachments/assets/9df90598-62a5-4ddf-9fdf-e3d278aabccf" />
+<img width="1416" height="155" alt="image" src="https://github.com/user-attachments/assets/3df63a35-9bb2-4ffe-b48f-4223c02f9f31" />
 ## Result:
 Therefore the PEAS description for the Health monitoring Agent is developed using python.
